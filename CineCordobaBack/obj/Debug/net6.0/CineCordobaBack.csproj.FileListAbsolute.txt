@@ -1,0 +1,39 @@
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.deps.json
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.pdb
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.csproj.AssemblyReference.cache
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.AssemblyInfoInputs.cache
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.AssemblyInfo.cs
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.csproj.CoreCompileInputs.cache
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\refint\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.pdb
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\ref\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.dll.config
+D:\Desktop\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.dll.config
+D:\Desktop\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.deps.json
+D:\Desktop\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.dll
+D:\Desktop\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.pdb
+D:\Desktop\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.csproj.AssemblyReference.cache
+D:\Desktop\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.AssemblyInfoInputs.cache
+D:\Desktop\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.AssemblyInfo.cs
+D:\Desktop\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.csproj.CoreCompileInputs.cache
+D:\Desktop\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.dll
+D:\Desktop\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\refint\CineCordobaBack.dll
+D:\Desktop\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.pdb
+D:\Desktop\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\ref\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.dll.config
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.deps.json
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\bin\Debug\net6.0\CineCordobaBack.pdb
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.csproj.AssemblyReference.cache
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.AssemblyInfoInputs.cache
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.AssemblyInfo.cs
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.csproj.CoreCompileInputs.cache
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\refint\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\CineCordobaBack.pdb
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaBack\obj\Debug\net6.0\ref\CineCordobaBack.dll

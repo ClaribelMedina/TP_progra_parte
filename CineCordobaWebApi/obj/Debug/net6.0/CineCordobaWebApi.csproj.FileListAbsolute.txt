@@ -1,0 +1,165 @@
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.exe
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.deps.json
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.runtimeconfig.json
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.pdb
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaBack.pdb
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.csproj.AssemblyReference.cache
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.AssemblyInfoInputs.cache
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.AssemblyInfo.cs
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineCordobaWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineCordobaWebApi.props
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineCordobaWebApi.props
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineCordobaWebApi.props
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\scopedcss\bundle\CineCordobaWebApi.styles.css
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.csproj.CopyComplete
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\refint\CineCordobaWebApi.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.pdb
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.genruntimeconfig.cache
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\ref\CineCordobaWebApi.dll
+C:\Users\clari\OneDrive\Escritorio\TUP\SEGUNDO AÑO_2023\PROGRAMACION II\PROYECTOS\TP-CINECORDOBA\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaBack.dll.config
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\appsettings.json
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.exe
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.deps.json
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.runtimeconfig.json
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.pdb
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\de\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\es\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\it\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaBack.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaBack.pdb
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaBack.dll.config
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.csproj.AssemblyReference.cache
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.AssemblyInfoInputs.cache
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.AssemblyInfo.cs
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.csproj.CoreCompileInputs.cache
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineCordobaWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineCordobaWebApi.props
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineCordobaWebApi.props
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineCordobaWebApi.props
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\scopedcss\bundle\CineCordobaWebApi.styles.css
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.csproj.CopyComplete
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\refint\CineCordobaWebApi.dll
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.pdb
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.genruntimeconfig.cache
+D:\Desktop\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\ref\CineCordobaWebApi.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.exe
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.deps.json
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.runtimeconfig.json
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaWebApi.pdb
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\pt-BR\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x64\native\SqlServerSpatial160.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x86\native\SqlServerSpatial160.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaBack.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaBack.pdb
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\bin\Debug\net6.0\CineCordobaBack.dll.config
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.csproj.AssemblyReference.cache
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.AssemblyInfoInputs.cache
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.AssemblyInfo.cs
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.csproj.CoreCompileInputs.cache
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.CineCordobaWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.CineCordobaWebApi.props
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CineCordobaWebApi.props
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CineCordobaWebApi.props
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\scopedcss\bundle\CineCordobaWebApi.styles.css
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.csproj.CopyComplete
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\refint\CineCordobaWebApi.dll
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.pdb
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\CineCordobaWebApi.genruntimeconfig.cache
+C:\Users\clari\OneDrive\Escritorio\CineCordobaTPultimo\CineCordobaTp\CineCordobaWebApi\obj\Debug\net6.0\ref\CineCordobaWebApi.dll
